@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSnowGuru
 - 👀 I’m interested in deep learning, supervised learning, and machine learning for time series.
-- 🌱 I’m currently learning machine learning  
+- 🌱 I’m building AI saas products   
 - 💞️ I’m looking to collaborate on anything that might be interestinng 
 - 📫 reach me on linkedin
 
